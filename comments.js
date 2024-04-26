@@ -2,6 +2,7 @@
 var http = require('http');
 var fs = require('fs');
 
+
 // create server
 http.createServer(function(req, res) {
     // read file
